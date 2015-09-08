@@ -9,8 +9,8 @@ public class arraysums {
 	int sum = 0;
 	for (i = 0; i < 4; i ++)
 		{
-		int[] val = {0,1,2,3};
-		sum = val[i] + val[i];}
+		int[] val = {88,1,2,3};
+		sum += val[i];}
 	System.out.println("Sum of all numbers = " + sum);
 	}
 
