@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class centstodollars { 
 
+	private static Scanner inputc;
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -11,7 +13,7 @@ public class centstodollars {
 		int c;
 		int d;
 		int e;
-		Scanner inputc = new Scanner(System.in);
+		inputc = new Scanner(System.in);
 		System.out.println("Input the cents: ");
 		c = inputc.nextInt();
 		d =  c / 100;
