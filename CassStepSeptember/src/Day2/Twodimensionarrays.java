@@ -8,7 +8,7 @@ public class Twodimensionarrays {
 
 	public static void main(String[] args) throws IOException
 	{
-		// TODO Auto-generated method stub
+
 
 	int [] [] data = { 
 			{3, 2, 5},
