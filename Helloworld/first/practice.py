@@ -55,7 +55,7 @@ def exceptioncontrol():
     while(yoursmart==0):
         try:
             a=int(input("Tell me your age as an integer"))
-            print("You were born in the year ", 2015-a)
+            print("You were born in the year of ", 2015-a)
             yoursmart=1
         except:
             print("You did not enter an integer")
