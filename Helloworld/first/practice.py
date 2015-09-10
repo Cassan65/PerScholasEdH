@@ -65,7 +65,13 @@ def exceptioncontrol():
 #given a list of mixed data types of string and integer show the sum. 
 #next, in the list create a new list of strings only
 #lastly, have the user create the list via input
-        
+def listplay():
+    MyList=[1,2,3,4, 5, 6, 7, 8, 9, 10, "When", "Harry", "Met", "Sally"]     
+    if type(Mylist.index())==int for item in MyList:
+        sum =++ MyList.index
+        else names=MyList.append([])
+
+   
 #functioncalls
 def main():
     printit()
